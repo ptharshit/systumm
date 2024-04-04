@@ -5,7 +5,7 @@ const Navbar = () => {
     <nav className='text-white text-2xl bg-slate-700 flex justify-around items-center py-4'>
         <h2 className=' font-semibold'>
             <span className='text-green-600'>&lt;</span>
-            PassOP
+            GuptKunji
             <span className='text-green-600'>/&gt;</span>
         </h2>
         <ul >
